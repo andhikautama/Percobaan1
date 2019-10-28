@@ -29,5 +29,6 @@ public class Karyawan {
         System.out.println("Jenis Kelamin       ="+jk);
         System.out.println("Umur                ="+umur);
         System.out.println("Gaji                ="+gaji);
+        System.out.println("HALOOOOOOOO");
     }
 }
